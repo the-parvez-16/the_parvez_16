@@ -1,7 +1,7 @@
 - 👋 Hi, I’m The Parvez Khan.
 - 👀 I’m interested in Robotics.
 - 🌱 I’m currently learning Programming.
-- 📫 How to reach me -From insta @the_parvez_16 and from linkedin @The-Parvez-K. .
+- 📫 How to reach me -From insta @the_parvez_16 and from linkedin @Parvez-Khan .
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm an ambibert so I can't talk with new peoples but I talk to known peoples more and more.
 <!--
