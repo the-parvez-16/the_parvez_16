@@ -7,8 +7,12 @@ body {
 }
 
 header {
+    background-image: url(https://img.freepik.com/free-vector/vector-abstract-black-gold-luxury-background_361591-3873.jpg?semt=ais_hybrid);
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: space-around;
+    margin: -10px -10px 0 -10px;
 }
 
 #title {
@@ -22,11 +26,13 @@ header {
 #data {
     margin: 20px 0 20px 0;
 }
+
 #data span {
     margin: 0 30px 0 0;
 }
 
 #icon {
+    color: #fff;
     margin: 20px;
 }
 
@@ -41,10 +47,10 @@ header {
 }
 
 .flash-sale {
-    margin-top: 30px;
     border: 1px solid black;
     background: rgba(0, 0, 0, .5);
     box-shadow: rgba(0, 0, 0, .6);
+    margin: 0 -10px 0 -10px;
     color: white;
     text-align: center;
     padding: 15px;
@@ -63,9 +69,11 @@ header {
 }
 
 footer {
-    background: rgba(0, 0, 0, .6);
+    background: url(https://imgs.search.brave.com/NgmswdMH2LOBxlXt4rVtnDHVMZwqr9Lgqbcrioy4QaY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9kYXJrLWJhY2tn/cm91bmQtd2l0aC1i/bGFjay1iYWNrZ3Jv/dW5kLXRoYXQtc2F5/cy1kYXRlXzkyNjIw/OC0xOTMwMC5qcGc_/c2VtdD1haXNfaHli/cmlk);
+    background-repeat: no-repeat;
+    background-size: cover;
     box-shadow: rgba(0, 0, 0, .9);
-    margin-top: 50%;
+    margin: 50% -10px -10px -10px;
     display: grid;
     grid-template-columns: 2.4fr 2.4fr 2.4fr 2.4fr 2.4fr;
 }
@@ -117,11 +125,11 @@ aside {
 }
 
 .insta {
-    color:#fff;
+    color: #fff;
     background: linear-gradient(purple, orange);
     color-scheme: dark;
     border-radius: 10px;
-    padding:3px 2px 0 2px;
+    padding: 3px 2px 0 2px;
 }
 
 .insta:hover {
