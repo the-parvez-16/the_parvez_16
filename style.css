@@ -1,0 +1,160 @@
+body {
+    background-image: url(https://imgs.search.brave.com/M7Kr8yehrc5JVuK8ZJ9cWMdO8lK-Cq5zIu1AbqGra7A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb29s/YmFja2dyb3VuZHMu/aW8vaW1hZ2VzL2Jh/Y2tncm91bmRzL2Js/YWNrL2JsYWNrLWNv/bXB1dGUtZWE0YzU3/YTQucG5n);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+#title {
+    color: black;
+    text-shadow: red -3px 0, cyan 3px 0;
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#data {
+    margin: 20px 0 20px 0;
+}
+#data span {
+    margin: 0 30px 0 0;
+}
+
+#icon {
+    margin: 20px;
+}
+
+.count {
+    background-color: #693e15;
+    color: white;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.flash-sale {
+    margin-top: 30px;
+    border: 1px solid black;
+    background: rgba(0, 0, 0, .5);
+    box-shadow: rgba(0, 0, 0, .6);
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.bi-lightning-fill {
+    color: goldenrod;
+}
+
+.z {
+    font-size: 16px;
+    background-color: #fff;
+    border: black;
+    border-radius: 50px;
+    padding: 5px 0 4px 10px;
+}
+
+footer {
+    background: rgba(0, 0, 0, .6);
+    box-shadow: rgba(0, 0, 0, .9);
+    margin-top: 50%;
+    display: grid;
+    grid-template-columns: 2.4fr 2.4fr 2.4fr 2.4fr 2.4fr;
+}
+
+.brand {
+    color: black;
+    text-shadow: red -3px 0, cyan 3px 0;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 10px;
+
+}
+
+aside {
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.data {
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 60px;
+}
+
+/* .data~span{
+            color:gray;
+        }*/
+.data span {
+    display: block;
+    color: gray;
+}
+
+.data div {
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+.fb {
+    color: blue;
+    background-color: #fff;
+    border-radius: 50%;
+    margin-bottom: -10px;
+}
+
+.fb:hover {
+    color: white;
+    background-color: black;
+}
+
+.insta {
+    color:#fff;
+    background: linear-gradient(purple, orange);
+    color-scheme: dark;
+    border-radius: 10px;
+    padding:3px 2px 0 2px;
+}
+
+.insta:hover {
+    text-decoration-color: linear-gradient(purple, orange);
+    color: black;
+    background: white;
+    border-radius: 10px;
+    padding-top: 3px;
+    padding-left: 2px;
+    padding-right: 2px;
+    transition: all 0.5 ease;
+}
+
+.yt {
+    color: red;
+}
+
+.yt:hover {
+    color: #fff;
+    background-color: red;
+    padding-top: 3px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 7px;
+}
+
+.x {
+    color: white;
+    background-color: black;
+    border-radius: 4px;
+}
+
+.x:hover {
+    color: black;
+    background-color: white;
+}
