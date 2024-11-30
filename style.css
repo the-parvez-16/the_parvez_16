@@ -56,10 +56,6 @@ header {
     padding: 15px;
 }
 
-.bi-lightning-fill {
-    color: goldenrod;
-}
-
 .z {
     font-size: 16px;
     background-color: #fff;
@@ -89,7 +85,7 @@ footer {
 }
 
 aside {
-    font-size: 25px;
+    font-size: 20px;
     margin-left: 30px;
     margin-top: 10px;
 }
@@ -116,7 +112,6 @@ aside {
     color: blue;
     background-color: #fff;
     border-radius: 50%;
-    margin-bottom: -10px;
 }
 
 .fb:hover {
@@ -129,7 +124,7 @@ aside {
     background: linear-gradient(purple, orange);
     color-scheme: dark;
     border-radius: 10px;
-    padding: 3px 2px 0 2px;
+    padding: 7px 2px 0 2px;
 }
 
 .insta:hover {
@@ -137,7 +132,7 @@ aside {
     color: black;
     background: white;
     border-radius: 10px;
-    padding-top: 3px;
+    padding-top: 7px;
     padding-left: 2px;
     padding-right: 2px;
     transition: all 0.5 ease;
@@ -150,7 +145,7 @@ aside {
 .yt:hover {
     color: #fff;
     background-color: red;
-    padding-top: 3px;
+    padding-top: 7px;
     padding-left: 2px;
     padding-right: 2px;
     border-radius: 7px;
@@ -159,6 +154,7 @@ aside {
 .x {
     color: white;
     background-color: black;
+    padding: 7px 2px 2px 4px;
     border-radius: 4px;
 }
 
