@@ -1,11 +1,10 @@
-# Introduction of the Persian King
-- 👋 Hi, I’m The Parvez Khan.
-- 👀 I’m interested in Robotics.
-- 🌱 I’m currently learning Programming.
-- 📫 How to reach me -From insta @the_parvez_16 and from linkedin @Parvez-Khan .
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: I'm an ambivert so I can't talk with new peoples but I talk to known peoples more and more.
-<!--
-Cutie-boy16/Cutie-boy16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# MY First Repository
+Welcome to my first repository! Here, I showcase my starting projects, where I've learned and implemented different concepts.
+
+## Project Included
+1. All.htm
+- This file contains a collection of my best projects. Although it's not fully responsive yet, I'm working on improving it to make it look great on all devices. Stay tuned for updates!
+2. Unique fashion
+- A stylish and attractive login page that I built as part of my exploration into web design. It features a modern layout with an elegant touch.
+
+Feel free to explore these projects and provide feedback. I'll continue to improve and add more over time.
